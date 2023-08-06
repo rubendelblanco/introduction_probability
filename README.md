@@ -6,4 +6,4 @@ There are jupyter notebooks and markdowns (in mds folder)
 
 ## Markdown chapter list
 
-- Chapter 2. Conditional probability (bayesian methods)
+- Chapter 2. [Conditional probability (bayesian methods)](https://github.com/rubendelblanco/introduction_probability/blob/main/mds/bayesian.md)
